@@ -25,3 +25,21 @@ Inside the project you can find 2 corpora of the speechs:
   <li><code>ProgettoBaccheschi599107Secondo.py</code></li>  
   </ul>
   
+To launch the two programs, in your console type following:
+
+<pre>#the program 1
+python3 ProgettoBaccheschi599107.py biden.txt trump.txt</pre>
+
+<pre>#the program 2
+python3 ProgettoBaccheschi599107Secondo.py biden.txt trump.txt</pre>
+
+  
+# Example
+
+You can find sample outputs in 
+
+<ul>
+  <li><code>output.txt</code>   (about first program) </li>    
+ 
+  <li><code>output2.txt</code>  (about second program) </li>  
+  </ul>
