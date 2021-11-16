@@ -28,10 +28,10 @@ Inside the project you can find 2 corpora of the speechs:
 To launch the two programs, in your console type following:
 
 <pre>#the program 1
-python3 ProgettoBaccheschi599107.py biden.txt trump.txt</pre>
+python3 ProgettoBaccheschi599107.py biden.txt trumpt.txt</pre>
 
 <pre>#the program 2
-python3 ProgettoBaccheschi599107Secondo.py biden.txt trump.txt</pre>
+python3 ProgettoBaccheschi599107Secondo.py biden.txt trumpt.txt</pre>
 
   
 # Example
