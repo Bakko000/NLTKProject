@@ -1,0 +1,994 @@
+####################################################    FILE biden.txt  #########################################################
+
+
+############################# Lista bigrammi in ordine di frequenza formati da Sostantivo seguito da Verbo:
+
+
+	Bigramma:  I’m - going  	Frequenza:  5
+
+
+	Bigramma:  Trump - is  	Frequenza:  4
+
+
+	Bigramma:  Americans - have  	Frequenza:  3
+
+
+	Bigramma:  country - is  	Frequenza:  3
+
+
+	Bigramma:  virus - is  	Frequenza:  3
+
+
+	Bigramma:  message - is  	Frequenza:  2
+
+
+	Bigramma:  Trump - said  	Frequenza:  2
+
+
+	Bigramma:  he’s - going  	Frequenza:  2
+
+
+	Bigramma:  businesses - are  	Frequenza:  2
+
+
+	Bigramma:  It’s - good  	Frequenza:  1
+
+
+	Bigramma:  state - elected  	Frequenza:  1
+
+
+	Bigramma:  town - called  	Frequenza:  1
+
+
+	Bigramma:  guy - named  	Frequenza:  1
+
+
+	Bigramma:  Rooney’s - were  	Frequenza:  1
+
+
+	Bigramma:  trailer - broadsided  	Frequenza:  1
+
+
+	Bigramma:  boys - were  	Frequenza:  1
+
+
+	Bigramma:  football - signed  	Frequenza:  1
+
+
+	Bigramma:  Harris - came  	Frequenza:  1
+
+
+	Bigramma:  Rooneys - decided  	Frequenza:  1
+
+
+	Bigramma:  thousand - acts  	Frequenza:  1
+
+
+
+
+
+############################# Lista bigrammi in ordine di frequenza formati da Aggettivo seguito da Sostantivo:
+
+
+	Bigramma:  we’re - going  	Frequenza:  5
+
+
+	Bigramma:  we’re - done  	Frequenza:  3
+
+
+	Bigramma:  lower - access  	Frequenza:  3
+
+
+	Bigramma:  black - Americans  	Frequenza:  3
+
+
+	Bigramma:  pre-existing - conditions  	Frequenza:  3
+
+
+	Bigramma:  first - time  	Frequenza:  2
+
+
+	Bigramma:  more - day  	Frequenza:  2
+
+
+	Bigramma:  last - week  	Frequenza:  2
+
+
+	Bigramma:  We’re - seeing  	Frequenza:  2
+
+
+	Bigramma:  race-based - disparities  	Frequenza:  2
+
+
+	Bigramma:  higher - infection  	Frequenza:  2
+
+
+	Bigramma:  higher - mortality  	Frequenza:  2
+
+
+	Bigramma:  many - people  	Frequenza:  2
+
+
+	Bigramma:  last - night  	Frequenza:  2
+
+
+	Bigramma:  white - flag  	Frequenza:  2
+
+
+	Bigramma:  fair - share  	Frequenza:  2
+
+
+	Bigramma:  higher - tax  	Frequenza:  2
+
+
+	Bigramma:  We’re - better  	Frequenza:  2
+
+
+	Bigramma:  I’m - going  	Frequenza:  2
+
+
+	Bigramma:  big - pronouncements  	Frequenza:  2
+
+
+
+
+########################################## Lista dei primi 20 sostantivi del testo in ordine di frequenza:
+
+
+	Token:  Trump 	POS:  NNP 	Frequenza:  25
+
+
+	Token:  people 	POS:  NNS 	Frequenza:  17
+
+
+	Token:  president 	POS:  NN 	Frequenza:  17
+
+
+	Token:  President 	POS:  NNP 	Frequenza:  15
+
+
+	Token:  years 	POS:  NNS 	Frequenza:  11
+
+
+	Token:  time 	POS:  NN 	Frequenza:  11
+
+
+	Token:  Americans 	POS:  NNPS 	Frequenza:  11
+
+
+	Token:  Look 	POS:  NNP 	Frequenza:  11
+
+
+	Token:  virus 	POS:  NN 	Frequenza:  11
+
+
+	Token:  country 	POS:  NN 	Frequenza:  10
+
+
+	Token:  Donald 	POS:  NNP 	Frequenza:  10
+
+
+	Token:  way 	POS:  NN 	Frequenza:  10
+
+
+	Token:  It’s 	POS:  NNS 	Frequenza:  9
+
+
+	Token:  America 	POS:  NNP 	Frequenza:  9
+
+
+	Token:  going 	POS:  NN 	Frequenza:  9
+
+
+	Token:  plan 	POS:  NN 	Frequenza:  9
+
+
+	Token:  Pittsburgh 	POS:  NNP 	Frequenza:  8
+
+
+	Token:  Folks 	POS:  NNS 	Frequenza:  8
+
+
+	Token:  done 	POS:  NN 	Frequenza:  8
+
+
+	Token:  Well 	POS:  NNP 	Frequenza:  8
+
+
+
+
+
+######################################## Lista dei primi 20 verbi del testo in ordine di frequenza:
+
+
+	Token:  is 	POS:  VBZ 	Frequenza:  36
+
+
+	Token:  going 	POS:  VBG 	Frequenza:  32
+
+
+	Token:  was 	POS:  VBD 	Frequenza:  29
+
+
+	Token:  are 	POS:  VBP 	Frequenza:  22
+
+
+	Token:  said 	POS:  VBD 	Frequenza:  22
+
+
+	Token:  be 	POS:  VB 	Frequenza:  16
+
+
+	Token:  has 	POS:  VBZ 	Frequenza:  16
+
+
+	Token:  know 	POS:  VBP 	Frequenza:  14
+
+
+	Token:  get 	POS:  VB 	Frequenza:  13
+
+
+	Token:  got 	POS:  VBD 	Frequenza:  12
+
+
+	Token:  have 	POS:  VBP 	Frequenza:  12
+
+
+	Token:  were 	POS:  VBD 	Frequenza:  9
+
+
+	Token:  do 	POS:  VB 	Frequenza:  7
+
+
+	Token:  did 	POS:  VBD 	Frequenza:  7
+
+
+	Token:  have 	POS:  VB 	Frequenza:  6
+
+
+	Token:  went 	POS:  VBD 	Frequenza:  6
+
+
+	Token:  didn’t 	POS:  VBP 	Frequenza:  6
+
+
+	Token:  do 	POS:  VBP 	Frequenza:  6
+
+
+	Token:  vote 	POS:  VB 	Frequenza:  6
+
+
+	Token:  been 	POS:  VBN 	Frequenza:  6
+
+
+
+
+
+
+####################################### La lista ORDINATA per frequenza delle prime 10 Part-of-Speech dell'intero testo (POS, senza punteggiatura):
+
+
+	POS: NN 	Frequenza: 684
+
+	POS: IN 	Frequenza: 454
+
+	POS: DT 	Frequenza: 404
+
+	POS: PRP 	Frequenza: 330
+
+	POS: NNP 	Frequenza: 322
+
+	POS: JJ 	Frequenza: 308
+
+	POS: NNS 	Frequenza: 234
+
+	POS: VBD 	Frequenza: 176
+
+
+
+
+######################################## Lista dei primi 20 bigrammi in ordine di frequenza:
+
+
+Bigramma:  going to
+Frequenza Bigrammma:  38
+Probabilità condizionata:  0.926829268292683
+Probabilità congiunta:  0.007551669316375199
+LMI =  194.19809250885046
+
+
+Bigramma:  in the
+Frequenza Bigrammma:  25
+Probabilità condizionata:  0.3125
+Probabilità congiunta:  0.004968203497615262
+LMI =  75.28784970042602
+
+
+Bigramma:  I was
+Frequenza Bigrammma:  11
+Probabilità condizionata:  0.1527777777777778
+Probabilità congiunta:  0.0021860095389507157
+LMI =  52.01286011841373
+
+
+Bigramma:  it was
+Frequenza Bigrammma:  10
+Probabilità condizionata:  0.25
+Probabilità congiunta:  0.001987281399046105
+LMI =  54.38935211751718
+
+
+Bigramma:  the first
+Frequenza Bigrammma:  10
+Probabilità condizionata:  0.05128205128205128
+Probabilità congiunta:  0.001987281399046105
+LMI =  44.265514872958846
+
+
+Bigramma:  Donald Trump
+Frequenza Bigrammma:  10
+Probabilità condizionata:  1.0
+Probabilità congiunta:  0.001987281399046105
+LMI =  76.53060017104563
+
+
+Bigramma:  and I
+Frequenza Bigrammma:  8
+Probabilità condizionata:  0.08080808080808081
+Probabilità congiunta:  0.001589825119236884
+LMI =  19.981076682858937
+
+
+Bigramma:  of the
+Frequenza Bigrammma:  8
+Probabilità condizionata:  0.10526315789473684
+Probabilità congiunta:  0.0015898251192368838
+LMI =  11.533267037488743
+
+
+Bigramma:  not going
+Frequenza Bigrammma:  8
+Probabilità condizionata:  0.38095238095238093
+Probabilità congiunta:  0.0015898251192368838
+LMI =  44.376374235859565
+
+
+Bigramma:  the way
+Frequenza Bigrammma:  8
+Probabilità condizionata:  0.041025641025641026
+Probabilità congiunta:  0.0015898251192368838
+LMI =  34.94126238593853
+
+
+Bigramma:  by the
+Frequenza Bigrammma:  7
+Probabilità condizionata:  0.5
+Probabilità congiunta:  0.0013910969793322733
+LMI =  25.827101251907752
+
+
+Bigramma:  this virus
+Frequenza Bigrammma:  7
+Probabilità condizionata:  0.18421052631578946
+Probabilità congiunta:  0.0013910969793322733
+LMI =  44.77838397799207
+
+
+Bigramma:  the world
+Frequenza Bigrammma:  7
+Probabilità condizionata:  0.035897435897435895
+Probabilità congiunta:  0.0013910969793322733
+LMI =  32.82710125190775
+
+
+Bigramma:  I’m going
+Frequenza Bigrammma:  7
+Probabilità condizionata:  0.5384615384615384
+Probabilità congiunta:  0.0013910969793322733
+LMI =  42.32395584324403
+
+
+Bigramma:  to be
+Frequenza Bigrammma:  6
+Probabilità condizionata:  0.044444444444444446
+Probabilità congiunta:  0.001192368839427663
+LMI =  22.30560161579565
+
+
+Bigramma:  for the
+Frequenza Bigrammma:  6
+Probabilità condizionata:  0.1875
+Probabilità congiunta:  0.001192368839427663
+LMI =  13.647290363105009
+
+
+Bigramma:  You know
+Frequenza Bigrammma:  6
+Probabilità condizionata:  0.5454545454545454
+Probabilità congiunta:  0.0011923688394276629
+LMI =  43.04711745311738
+
+
+Bigramma:  the United
+Frequenza Bigrammma:  6
+Probabilità condizionata:  0.03076923076923077
+Probabilità congiunta:  0.0011923688394276629
+LMI =  28.137515358778074
+
+
+Bigramma:  And I
+Frequenza Bigrammma:  6
+Probabilità condizionata:  0.16666666666666666
+Probabilità congiunta:  0.0011923688394276629
+LMI =  21.252172228294924
+
+
+Bigramma:  on the
+Frequenza Bigrammma:  6
+Probabilità condizionata:  0.2727272727272727
+Probabilità congiunta:  0.0011923688394276629
+LMI =  16.890700651281225
+
+
+
+going to è il bigramma con probabilità congiunta massima  ( 0.007551669316375199 )
+Donald Trump è il bigramma con probabilità condizionata massima  ( 1.0 )
+going to è il bigramma con forza associativa massima (LMI)  ( 194.19809250885046 )
+
+
+
+
+
+
+#################################### Fra le frasi da 8 a 15 tokens, dimostro con Markov1 e Add-One Smoothing:
+
+
+La frase con Markov1 con probabilità maggiore (smoothed) è:  That’s why President Trump nominated Justice Barrett to the court.
+Probabilità:  1.8532599431717283e-31
+
+
+
+
+############################## Primi 15 nomi propri di persona ordinati per frequenza: 
+
+Il nome proprio di persona:  Trump  ha una frequenza di:  11
+Il nome proprio di persona:  DonaldTrump  ha una frequenza di:  10
+Il nome proprio di persona:  Look  ha una frequenza di:  10
+Il nome proprio di persona:  Honk  ha una frequenza di:  5
+Il nome proprio di persona:  Pittsburgh  ha una frequenza di:  3
+Il nome proprio di persona:  Franco  ha una frequenza di:  2
+Il nome proprio di persona:  God  ha una frequenza di:  2
+Il nome proprio di persona:  Obama  ha una frequenza di:  2
+Il nome proprio di persona:  Joe  ha una frequenza di:  2
+Il nome proprio di persona:  AbrahamLincoln  ha una frequenza di:  2
+Il nome proprio di persona:  Hello  ha una frequenza di:  1
+Il nome proprio di persona:  RockyBleier  ha una frequenza di:  1
+Il nome proprio di persona:  Christmas  ha una frequenza di:  1
+Il nome proprio di persona:  Kmart  ha una frequenza di:  1
+Il nome proprio di persona:  FrancoHarris  ha una frequenza di:  1
+
+
+
+
+############################## Primi 15 nomi propri di luogo ordinati per frequenza: 
+
+Il nome proprio di luogo:  America  ha una frequenza di:  9
+Il nome proprio di luogo:  American  ha una frequenza di:  8
+Il nome proprio di luogo:  UnitedStates  ha una frequenza di:  5
+Il nome proprio di luogo:  China  ha una frequenza di:  3
+Il nome proprio di luogo:  Franco  ha una frequenza di:  2
+Il nome proprio di luogo:  Pittsburgh  ha una frequenza di:  2
+Il nome proprio di luogo:  Pennsylvania  ha una frequenza di:  2
+Il nome proprio di luogo:  Latino  ha una frequenza di:  2
+Il nome proprio di luogo:  Latrobe  ha una frequenza di:  1
+Il nome proprio di luogo:  Washington  ha una frequenza di:  1
+Il nome proprio di luogo:  Homewood  ha una frequenza di:  1
+Il nome proprio di luogo:  Americans  ha una frequenza di:  1
+Il nome proprio di luogo:  Detroit  ha una frequenza di:  1
+Il nome proprio di luogo:  Flint  ha una frequenza di:  1
+Il nome proprio di luogo:  Scranton  ha una frequenza di:  1
+
+
+
+
+
+
+
+
+
+
+####################################################    FILE trumpt.txt  #########################################################
+
+
+############################# Lista bigrammi in ordine di frequenza formati da Sostantivo seguito da Verbo:
+
+
+	Bigramma:  He’s - been  	Frequenza:  5
+
+
+	Bigramma:  Trump - won  	Frequenza:  3
+
+
+	Bigramma:  way - it’s  	Frequenza:  2
+
+
+	Bigramma:  I’m - going  	Frequenza:  2
+
+
+	Bigramma:  That’s - true  	Frequenza:  2
+
+
+	Bigramma:  thing - called  	Frequenza:  2
+
+
+	Bigramma:  Democrats - said  	Frequenza:  2
+
+
+	Bigramma:  I’m - thrilled  	Frequenza:  1
+
+
+	Bigramma:  Hard - working  	Frequenza:  1
+
+
+	Bigramma:  Great - quarterback  	Frequenza:  1
+
+
+	Bigramma:  We’re - going  	Frequenza:  1
+
+
+	Bigramma:  It’s - been  	Frequenza:  1
+
+
+	Bigramma:  election - is  	Frequenza:  1
+
+
+	Bigramma:  ever - had  	Frequenza:  1
+
+
+	Bigramma:  they’re - going  	Frequenza:  1
+
+
+	Bigramma:  It’s - energy  	Frequenza:  1
+
+
+	Bigramma:  opponent - is  	Frequenza:  1
+
+
+	Bigramma:  “I - think  	Frequenza:  1
+
+
+	Bigramma:  news - says  	Frequenza:  1
+
+
+	Bigramma:  He - said  	Frequenza:  1
+
+
+
+
+
+############################# Lista bigrammi in ordine di frequenza formati da Aggettivo seguito da Sostantivo:
+
+
+	Bigramma:  We’re - going  	Frequenza:  8
+
+
+	Bigramma:  we’re - going  	Frequenza:  7
+
+
+	Bigramma:  radical - left  	Frequenza:  6
+
+
+	Bigramma:  last - night  	Frequenza:  6
+
+
+	Bigramma:  There’ll - be  	Frequenza:  5
+
+
+	Bigramma:  second - amendment  	Frequenza:  5
+
+
+	Bigramma:  long - time  	Frequenza:  4
+
+
+	Bigramma:  I’ll - tell  	Frequenza:  4
+
+
+	Bigramma:  what’s - happening  	Frequenza:  3
+
+
+	Bigramma:  best - year  	Frequenza:  3
+
+
+	Bigramma:  Don’t - forget  	Frequenza:  3
+
+
+	Bigramma:  last - time  	Frequenza:  3
+
+
+	Bigramma:  I’ve - done  	Frequenza:  3
+
+
+	Bigramma:  we’re - building  	Frequenza:  3
+
+
+	Bigramma:  They’re - paying  	Frequenza:  3
+
+
+	Bigramma:  great - place  	Frequenza:  2
+
+
+	Bigramma:  you’ve - ever  	Frequenza:  2
+
+
+	Bigramma:  last - year  	Frequenza:  2
+
+
+	Bigramma:  third - quarter  	Frequenza:  2
+
+
+	Bigramma:  big - things  	Frequenza:  2
+
+
+
+
+########################################## Lista dei primi 20 sostantivi del testo in ordine di frequenza:
+
+
+	Token:  way 	POS:  NN 	Frequenza:  24
+
+
+	Token:  people 	POS:  NNS 	Frequenza:  22
+
+
+	Token:  going 	POS:  NN 	Frequenza:  21
+
+
+	Token:  It’s 	POS:  NNS 	Frequenza:  16
+
+
+	Token:  Pennsylvania 	POS:  NNP 	Frequenza:  15
+
+
+	Token:  wall 	POS:  NN 	Frequenza:  15
+
+
+	Token:  That’s 	POS:  NNS 	Frequenza:  13
+
+
+	Token:  energy 	POS:  NN 	Frequenza:  13
+
+
+	Token:  lot 	POS:  NN 	Frequenza:  12
+
+
+	Token:  it’s 	POS:  NNP 	Frequenza:  12
+
+
+	Token:  country 	POS:  NN 	Frequenza:  11
+
+
+	Token:  time 	POS:  NN 	Frequenza:  10
+
+
+	Token:  year 	POS:  NN 	Frequenza:  10
+
+
+	Token:  years 	POS:  NNS 	Frequenza:  10
+
+
+	Token:  Thank 	POS:  NNP 	Frequenza:  9
+
+
+	Token:  I’m 	POS:  NN 	Frequenza:  9
+
+
+	Token:  be 	POS:  NN 	Frequenza:  9
+
+
+	Token:  He’s 	POS:  NNS 	Frequenza:  8
+
+
+	Token:  judges 	POS:  NNS 	Frequenza:  8
+
+
+	Token:  that’s 	POS:  NNP 	Frequenza:  7
+
+
+
+
+
+######################################## Lista dei primi 20 verbi del testo in ordine di frequenza:
+
+
+	Token:  have 	POS:  VBP 	Frequenza:  42
+
+
+	Token:  said 	POS:  VBD 	Frequenza:  41
+
+
+	Token:  don’t 	POS:  VBP 	Frequenza:  33
+
+
+	Token:  be 	POS:  VB 	Frequenza:  32
+
+
+	Token:  was 	POS:  VBD 	Frequenza:  32
+
+
+	Token:  is 	POS:  VBZ 	Frequenza:  29
+
+
+	Token:  going 	POS:  VBG 	Frequenza:  28
+
+
+	Token:  had 	POS:  VBD 	Frequenza:  21
+
+
+	Token:  know 	POS:  VBP 	Frequenza:  21
+
+
+	Token:  are 	POS:  VBP 	Frequenza:  16
+
+
+	Token:  been 	POS:  VBN 	Frequenza:  15
+
+
+	Token:  got 	POS:  VBD 	Frequenza:  15
+
+
+	Token:  have 	POS:  VB 	Frequenza:  14
+
+
+	Token:  won 	POS:  VBD 	Frequenza:  14
+
+
+	Token:  think 	POS:  VBP 	Frequenza:  13
+
+
+	Token:  did 	POS:  VBD 	Frequenza:  13
+
+
+	Token:  do 	POS:  VBP 	Frequenza:  11
+
+
+	Token:  do 	POS:  VB 	Frequenza:  11
+
+
+	Token:  need 	POS:  VBP 	Frequenza:  11
+
+
+	Token:  doing 	POS:  VBG 	Frequenza:  10
+
+
+
+
+
+
+####################################### La lista ORDINATA per frequenza delle prime 10 Part-of-Speech dell'intero testo (POS, senza punteggiatura):
+
+
+	POS: NN 	Frequenza: 640
+
+	POS: PRP 	Frequenza: 572
+
+	POS: JJ 	Frequenza: 468
+
+	POS: IN 	Frequenza: 468
+
+	POS: DT 	Frequenza: 419
+
+	POS: RB 	Frequenza: 298
+
+	POS: NNP 	Frequenza: 271
+
+	POS: VBP 	Frequenza: 256
+
+
+
+
+######################################## Lista dei primi 20 bigrammi in ordine di frequenza:
+
+
+Bigramma:  going to
+Frequenza Bigrammma:  46
+Probabilità condizionata:  0.9387755102040817
+Probabilità congiunta:  0.007921474083003272
+LMI =  250.54567671519075
+
+
+Bigramma:  I said
+Frequenza Bigrammma:  23
+Probabilità condizionata:  0.1619718309859155
+Probabilità congiunta:  0.003960737041501636
+LMI =  103.15671884695398
+
+
+Bigramma:  to be
+Frequenza Bigrammma:  15
+Probabilità condizionata:  0.12
+Probabilità congiunta:  0.0025830893748923713
+LMI =  61.30697437546556
+
+
+Bigramma:  the way
+Frequenza Bigrammma:  15
+Probabilità condizionata:  0.09316770186335403
+Probabilità congiunta:  0.0025830893748923713
+LMI =  67.41882803213153
+
+
+Bigramma:  of the
+Frequenza Bigrammma:  13
+Probabilità condizionata:  0.1511627906976744
+Probabilità congiunta:  0.002238677458240055
+LMI =  31.80886025235187
+
+
+Bigramma:  I don’t
+Frequenza Bigrammma:  13
+Probabilità condizionata:  0.09154929577464789
+Probabilità congiunta:  0.0022386774582400554
+LMI =  47.164067114281025
+
+
+Bigramma:  you know
+Frequenza Bigrammma:  12
+Probabilità condizionata:  0.14814814814814814
+Probabilità congiunta:  0.002066471499913897
+LMI =  59.92562777250903
+
+
+Bigramma:  have to
+Frequenza Bigrammma:  12
+Probabilità condizionata:  0.21428571428571427
+Probabilità congiunta:  0.002066471499913897
+LMI =  39.78480735244985
+
+
+Bigramma:  a lot
+Frequenza Bigrammma:  11
+Probabilità condizionata:  0.08527131782945736
+Probabilità congiunta:  0.0018942655415877389
+LMI =  59.03501099315134
+
+
+Bigramma:  a great
+Frequenza Bigrammma:  10
+Probabilità condizionata:  0.07751937984496124
+Probabilità congiunta:  0.001722059583261581
+LMI =  39.073875625582794
+
+
+Bigramma:  in the
+Frequenza Bigrammma:  10
+Probabilità condizionata:  0.2
+Probabilità congiunta:  0.001722059583261581
+LMI =  28.5073234570071
+
+
+Bigramma:  we’re going
+Frequenza Bigrammma:  10
+Probabilità condizionata:  0.45454545454545453
+Probabilità congiunta:  0.0017220595832615807
+LMI =  57.51363950837547
+
+
+Bigramma:  to do
+Frequenza Bigrammma:  10
+Probabilità condizionata:  0.08
+Probabilità congiunta:  0.001722059583261581
+LMI =  44.00289510290668
+
+
+Bigramma:  don’t want
+Frequenza Bigrammma:  10
+Probabilità condizionata:  0.23255813953488372
+Probabilità congiunta:  0.0017220595832615807
+LMI =  62.293156574456425
+
+
+Bigramma:  a little
+Frequenza Bigrammma:  10
+Probabilità condizionata:  0.07751937984496124
+Probabilità congiunta:  0.001722059583261581
+LMI =  53.548465395295004
+
+
+Bigramma:  Thank you
+Frequenza Bigrammma:  9
+Probabilità condizionata:  1.0
+Probabilità congiunta:  0.0015498536249354228
+LMI =  55.47354584236258
+
+
+Bigramma:  I think
+Frequenza Bigrammma:  9
+Probabilità condizionata:  0.06338028169014084
+Probabilità congiunta:  0.0015498536249354228
+LMI =  41.55178144528621
+
+
+Bigramma:  We’re going
+Frequenza Bigrammma:  9
+Probabilità condizionata:  0.8181818181818182
+Probabilità congiunta:  0.0015498536249354228
+LMI =  59.394247716532476
+
+
+Bigramma:  tell you
+Frequenza Bigrammma:  9
+Probabilità condizionata:  0.8181818181818182
+Probabilità congiunta:  0.0015498536249354228
+LMI =  52.867986287607714
+
+
+Bigramma:  but I
+Frequenza Bigrammma:  9
+Probabilità condizionata:  0.23684210526315788
+Probabilità congiunta:  0.0015498536249354225
+LMI =  29.48244918477061
+
+
+
+going to è il bigramma con probabilità congiunta massima  ( 0.007921474083003272 )
+Thank you è il bigramma con probabilità condizionata massima  ( 1.0 )
+going to è il bigramma con forza associativa massima (LMI)  ( 250.54567671519075 )
+
+
+
+
+
+
+#################################### Fra le frasi da 8 a 15 tokens, dimostro con Markov1 e Add-One Smoothing:
+
+
+
+La frase con Markov1 con probabilità maggiore (smoothed) è:  We have to remember that’s called obstruction.
+
+
+
+
+
+Probabilità:  1.6111810742950504e-21
+
+
+
+
+############################## Primi 15 nomi propri di persona ordinati per frequenza: 
+
+Il nome proprio di persona:  Okay  ha una frequenza di:  5
+Il nome proprio di persona:  Trump  ha una frequenza di:  4
+Il nome proprio di persona:  Rudy  ha una frequenza di:  4
+Il nome proprio di persona:  Joe  ha una frequenza di:  2
+Il nome proprio di persona:  Pittsburgh  ha una frequenza di:  1
+Il nome proprio di persona:  Good  ha una frequenza di:  1
+Il nome proprio di persona:  Great  ha una frequenza di:  1
+Il nome proprio di persona:  GregAbbott  ha una frequenza di:  1
+Il nome proprio di persona:  Omar  ha una frequenza di:  1
+Il nome proprio di persona:  Look  ha una frequenza di:  1
+Il nome proprio di persona:  Sir  ha una frequenza di:  1
+Il nome proprio di persona:  Donald  ha una frequenza di:  1
+Il nome proprio di persona:  Mr.  ha una frequenza di:  1
+Il nome proprio di persona:  SleepyJoe  ha una frequenza di:  1
+Il nome proprio di persona:  ElizabethWarren  ha una frequenza di:  1
+
+
+
+
+############################## Primi 15 nomi propri di luogo ordinati per frequenza: 
+
+Il nome proprio di luogo:  Pennsylvania  ha una frequenza di:  14
+Il nome proprio di luogo:  NewYork  ha una frequenza di:  7
+Il nome proprio di luogo:  Texas  ha una frequenza di:  6
+Il nome proprio di luogo:  American  ha una frequenza di:  3
+Il nome proprio di luogo:  Mexico  ha una frequenza di:  3
+Il nome proprio di luogo:  America  ha una frequenza di:  2
+Il nome proprio di luogo:  Ohio  ha una frequenza di:  2
+Il nome proprio di luogo:  Great  ha una frequenza di:  2
+Il nome proprio di luogo:  Pittsburgh  ha una frequenza di:  1
+Il nome proprio di luogo:  PennsylvaniaHard  ha una frequenza di:  1
+Il nome proprio di luogo:  Americans  ha una frequenza di:  1
+Il nome proprio di luogo:  China  ha una frequenza di:  1
+Il nome proprio di luogo:  California  ha una frequenza di:  1
+Il nome proprio di luogo:  BeaverCounty  ha una frequenza di:  1
+Il nome proprio di luogo:  Louisiana  ha una frequenza di:  1

@@ -1,0 +1,239 @@
+------------ STATISTICHE TESTI (PUNTEGGIATURA INCLUSA) ---------
+
+
+
+
+
+****************************************** File:  biden.txt ***************************************************
+
+	Tokens Totali:  5032 	Frasi Totali:  301 	Lunghezza Media Frasi: 80.57142857142857 	Lunghezza Media Parole:  4.008545310015898
+
+	Vocabolario primi 5000 tokens:  1261 	Type Token Ratio primi 5000 tokens:  0.2522 	Densità Lessicale(senza punt):  0.574584377135049
+
+	Media Sostantivi per frase:  4.176079734219269 		Media Verbi per frase:  2.46843853820598
+
+
+
+
+
+
+--- Statistiche del testo negli intervalli di 500 in 500
+
+
+Intervallo:  0 - 500
+Dimensione Corpus:  500
+Classe totale degli hapax:  138
+Classe freq V5:  25
+Classe freq V10:  0
+
+
+Intervallo:  500 - 1000
+Dimensione Corpus:  1000
+Classe totale degli hapax:  229
+Classe freq V5:  47
+Classe freq V10:  9
+
+
+Intervallo:  1000 - 1500
+Dimensione Corpus:  1500
+Classe totale degli hapax:  331
+Classe freq V5:  69
+Classe freq V10:  17
+
+
+Intervallo:  1500 - 2000
+Dimensione Corpus:  2000
+Classe totale degli hapax:  375
+Classe freq V5:  89
+Classe freq V10:  34
+
+
+Intervallo:  2000 - 2500
+Dimensione Corpus:  2500
+Classe totale degli hapax:  450
+Classe freq V5:  120
+Classe freq V10:  43
+
+
+Intervallo:  2500 - 3000
+Dimensione Corpus:  3000
+Classe totale degli hapax:  521
+Classe freq V5:  140
+Classe freq V10:  52
+
+
+Intervallo:  3000 - 3500
+Dimensione Corpus:  3500
+Classe totale degli hapax:  568
+Classe freq V5:  162
+Classe freq V10:  63
+
+
+Intervallo:  3500 - 4000
+Dimensione Corpus:  4000
+Classe totale degli hapax:  624
+Classe freq V5:  176
+Classe freq V10:  76
+
+
+Intervallo:  4000 - 4500
+Dimensione Corpus:  4500
+Classe totale degli hapax:  681
+Classe freq V5:  193
+Classe freq V10:  87
+
+
+Intervallo:  4500 - 5000
+Dimensione Corpus:  5000
+Classe totale degli hapax:  719
+Classe freq V5:  225
+Classe freq V10:  90
+
+
+Intervallo:  5000 - 5032
+Dimensione Corpus:  5032
+Classe totale degli hapax:  716
+Classe freq V5:  225
+Classe freq V10:  90
+
+
+
+
+
+****************************************** File:  trumpt.txt ***************************************************
+
+	Tokens Totali:  5807 	Frasi Totali:  489 	Lunghezza Media Frasi: 52.06339468302659 	Lunghezza Media Parole:  3.624246598932323
+
+	Vocabolario primi 5000 tokens:  964 	Type Token Ratio primi 5000 tokens:  0.1928 	Densità Lessicale(senza punt):  0.576530612244898
+
+	Media Sostantivi per frase:  2.3435582822085887 		Media Verbi per frase:  1.7893660531697342
+
+
+
+
+
+
+--- Statistiche del testo negli intervalli di 500 in 500
+
+
+Intervallo:  0 - 500
+Dimensione Corpus:  500
+Classe totale degli hapax:  127
+Classe freq V5:  11
+Classe freq V10:  14
+
+
+Intervallo:  500 - 1000
+Dimensione Corpus:  1000
+Classe totale degli hapax:  177
+Classe freq V5:  22
+Classe freq V10:  25
+
+
+Intervallo:  1000 - 1500
+Dimensione Corpus:  1500
+Classe totale degli hapax:  244
+Classe freq V5:  45
+Classe freq V10:  27
+
+
+Intervallo:  1500 - 2000
+Dimensione Corpus:  2000
+Classe totale degli hapax:  284
+Classe freq V5:  63
+Classe freq V10:  35
+
+
+Intervallo:  2000 - 2500
+Dimensione Corpus:  2500
+Classe totale degli hapax:  331
+Classe freq V5:  71
+Classe freq V10:  42
+
+
+Intervallo:  2500 - 3000
+Dimensione Corpus:  3000
+Classe totale degli hapax:  384
+Classe freq V5:  86
+Classe freq V10:  47
+
+
+Intervallo:  3000 - 3500
+Dimensione Corpus:  3500
+Classe totale degli hapax:  419
+Classe freq V5:  96
+Classe freq V10:  54
+
+
+Intervallo:  3500 - 4000
+Dimensione Corpus:  4000
+Classe totale degli hapax:  460
+Classe freq V5:  107
+Classe freq V10:  63
+
+
+Intervallo:  4000 - 4500
+Dimensione Corpus:  4500
+Classe totale degli hapax:  467
+Classe freq V5:  136
+Classe freq V10:  68
+
+
+Intervallo:  4500 - 5000
+Dimensione Corpus:  5000
+Classe totale degli hapax:  500
+Classe freq V5:  150
+Classe freq V10:  73
+
+
+Intervallo:  5000 - 5500
+Dimensione Corpus:  5500
+Classe totale degli hapax:  513
+Classe freq V5:  165
+Classe freq V10:  75
+
+
+Intervallo:  5500 - 5807
+Dimensione Corpus:  5807
+Classe totale degli hapax:  535
+Classe freq V5:  170
+Classe freq V10:  80
+
+
+
+
+------------ CONFRONTI DEI TESTI  ------------
+
+
+Il file  trumpt.txt  è più lungo rispetto al file  biden.txt 
+
+
+Il file biden.txt  ha parole mediamente più lunghe rispetto al file  trumpt.txt 
+
+
+Il file biden.txt  ha il vocabolario nei primi 5000 tokens più lungo rispetto al file  trumpt.txt 
+
+
+Il file biden.txt  ha più hapax del file  trumpt.txt 
+
+
+Il file biden.txt  ha più parole di frequenza 5 rispetto al file  trumpt.txt 
+
+
+Il file biden.txt  ha più parole di frequenza 10 rispetto al file  trumpt.txt 
+
+
+Il file biden.txt  ha una media di sostantivi per frase maggiore rispetto al file  trumpt.txt 
+
+
+Il file biden.txt  ha una media di verbi per frase maggiore rispetto al file  trumpt.txt 
+
+
+Il file trumpt.txt  ha una densità lessicale maggiore rispetto al file  biden.txt 
+
+
+Il file  trumpt.txt  ha più frasi rispetto il file  biden.txt 
+
+
+Il file  biden.txt ha frasi mediamente più lunghe rispetto il file  trumpt.txt 
+
