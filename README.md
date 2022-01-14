@@ -1,5 +1,5 @@
 # NLTKProject
-Final Project of Natural Language Processing with NLTK, Computational Linguistic Course
+Final Project of Natural Language Processing with NLTK, Computational Linguistic Course.  <b>Final evaluation mark: 29/30</b>
 
 # About 
 The project consists in the textual analysis, using Python and NLTK library, of the speeches made by Joe Biden and Donald Trump in the US elections on November 2, 2020.
